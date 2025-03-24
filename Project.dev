@@ -70,18 +70,8 @@ Priority=1000
 OverrideBuildCmd=0
 BuildCmd=
 
-[Unit4]
-FileName=Ludmila.h
-CompileCpp=1
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
 [Unit5]
-FileName=Ludmila.cpp
+FileName=main.cpp
 CompileCpp=1
 Folder=
 Compile=1
@@ -91,7 +81,7 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit6]
-FileName=main.cpp
+FileName=Ludmila.h
 CompileCpp=1
 Folder=
 Compile=1
@@ -102,6 +92,16 @@ BuildCmd=
 
 [Unit3]
 FileName=Name.h
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit4]
+FileName=Ludmila.cpp
 CompileCpp=1
 Folder=
 Compile=1

@@ -4,7 +4,6 @@
 
 using namespace std;
 
-
 Ludmila::Ludmila(string n)
 {
 	name=n;
