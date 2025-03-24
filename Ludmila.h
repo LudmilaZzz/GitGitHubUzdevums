@@ -2,6 +2,7 @@
 #include "Name.h"
 using namespace std;
 
+
 class Ludmila: public Name
 {
 	public:

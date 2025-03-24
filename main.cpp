@@ -4,6 +4,7 @@
 #include "Ludmila.h"
 using namespace std;
 
+
 int main()
 {
 	const int array_size = 2;
