@@ -11,4 +11,5 @@ class Ludmila: public Name
 		
 	private:
 		string name;
+		
 };
